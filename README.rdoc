@@ -1,0 +1,9 @@
+==Kata Bank OCR
+This is a solution for Kata Bank OCR problem described at
+http://codingdojo.org/cgi-bin/wiki.pl?KataBankOCR
+
+The solution includes up to User Story 3. User Story 4 is solved yet.
+
+to run this program you will need to:
+1. clone this git repo by running:
+git clone 
