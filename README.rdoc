@@ -6,4 +6,9 @@ The solution includes up to User Story 3. User Story 4 is solved yet.
 
 to run this program you will need to:
 1. clone this git repo by running:
-git clone 
+git clone https://github.com/gharraph/KataBankOCR.git
+2. cd to KataBankOCR
+3. accept Gemset settings by typing y and hit enter
+4. run "bundle install" in your terminal (command line)
+5. run "ruby lib/digit_parser.rb"
+6. check file "OCR_results.txt" for running the application on "OCR_output.txt"
